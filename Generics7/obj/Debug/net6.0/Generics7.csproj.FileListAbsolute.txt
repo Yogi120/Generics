@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\Generics7\Generics7\obj\Debug\net6.0\Generics7.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\Generics7\Generics7\obj\Debug\net6.0\Generics7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\Generics7\Generics7\obj\Debug\net6.0\Generics7.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\Generics7\Generics7\obj\Debug\net6.0\Generics7.AssemblyInfo.cs
+C:\Users\Home\source\repos\Generics7\Generics7\obj\Debug\net6.0\Generics7.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Generics7\Generics7\bin\Debug\net6.0\Generics7.exe
+C:\Users\Home\source\repos\Generics7\Generics7\bin\Debug\net6.0\Generics7.deps.json
+C:\Users\Home\source\repos\Generics7\Generics7\bin\Debug\net6.0\Generics7.runtimeconfig.json
+C:\Users\Home\source\repos\Generics7\Generics7\bin\Debug\net6.0\Generics7.dll
+C:\Users\Home\source\repos\Generics7\Generics7\bin\Debug\net6.0\Generics7.pdb
+C:\Users\Home\source\repos\Generics7\Generics7\obj\Debug\net6.0\Generics7.dll
+C:\Users\Home\source\repos\Generics7\Generics7\obj\Debug\net6.0\refint\Generics7.dll
+C:\Users\Home\source\repos\Generics7\Generics7\obj\Debug\net6.0\Generics7.pdb
+C:\Users\Home\source\repos\Generics7\Generics7\obj\Debug\net6.0\Generics7.genruntimeconfig.cache
+C:\Users\Home\source\repos\Generics7\Generics7\obj\Debug\net6.0\ref\Generics7.dll
