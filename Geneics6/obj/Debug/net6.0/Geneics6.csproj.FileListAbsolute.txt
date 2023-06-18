@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\Geneics6\Geneics6\bin\Debug\net6.0\Geneics6.exe
+C:\Users\Home\source\repos\Geneics6\Geneics6\bin\Debug\net6.0\Geneics6.deps.json
+C:\Users\Home\source\repos\Geneics6\Geneics6\bin\Debug\net6.0\Geneics6.runtimeconfig.json
+C:\Users\Home\source\repos\Geneics6\Geneics6\bin\Debug\net6.0\Geneics6.dll
+C:\Users\Home\source\repos\Geneics6\Geneics6\bin\Debug\net6.0\Geneics6.pdb
+C:\Users\Home\source\repos\Geneics6\Geneics6\obj\Debug\net6.0\Geneics6.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\Geneics6\Geneics6\obj\Debug\net6.0\Geneics6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\Geneics6\Geneics6\obj\Debug\net6.0\Geneics6.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\Geneics6\Geneics6\obj\Debug\net6.0\Geneics6.AssemblyInfo.cs
+C:\Users\Home\source\repos\Geneics6\Geneics6\obj\Debug\net6.0\Geneics6.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Geneics6\Geneics6\obj\Debug\net6.0\Geneics6.dll
+C:\Users\Home\source\repos\Geneics6\Geneics6\obj\Debug\net6.0\refint\Geneics6.dll
+C:\Users\Home\source\repos\Geneics6\Geneics6\obj\Debug\net6.0\Geneics6.pdb
+C:\Users\Home\source\repos\Geneics6\Geneics6\obj\Debug\net6.0\Geneics6.genruntimeconfig.cache
+C:\Users\Home\source\repos\Geneics6\Geneics6\obj\Debug\net6.0\ref\Geneics6.dll
